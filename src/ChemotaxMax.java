@@ -22,7 +22,6 @@
 import edu.yale.max.cell.*;
 import edu.yale.max.display.*;
 import edu.yale.max.environment.*;
-import edu.yale.max.ui.*;
 
 
 import java.applet.Applet;
